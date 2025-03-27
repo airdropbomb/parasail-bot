@@ -5,15 +5,15 @@ For Auto Start Node
 ## Requirements
 
 - NodeJS.
-- Parasail Network Account[Parasail](https://www.parasail.network/season?refer=MHhkNUI0RDcxOTREQmQ3NDk0N2RhMDAyODg4MTM3ZkMyYjQzNDVkNzYw)
-- Proxy (Optional). Best Proxy [Cherry Proxy](https://center.cherryproxy.com/Login/Register?invite=029ad2d3)
+- Parasail Network Account[Parasail](https://www.parasail.network/season?refer=MHg2RmY5Zjc5OTFkRGI5NDZBMDk2YjkzN2U1ZTAyRDliN2M0MjJmODlD)
+- Proxy (Optional). Best Proxy [Cherry Proxy](https://center.cherryproxy.com/Login/Register?invite=b3e48b72)
 
 ## Installation
 
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/ahlulmukh/parasail-bot.git
+   git clone https://github.com/airdropbomb/parasail-bot.git
    cd parasail-bot
    ```
 
@@ -50,17 +50,8 @@ npm run start
 
 ## Stay Connected
 
-- Channel Telegram : [Telegram](https://t.me/elpuqus)
-- Channel WhatsApp : [Whatsapp](https://whatsapp.com/channel/0029VavBRhGBqbrEF9vxal1R)
-- Discord : [Discord](https://discord.com/invite/uKM4UCAccY)
-
-## Donation
-
-If you would like to support the development of this project, you can make a donation using the following addresses:
-
-- Solana: `FdHsx8He55QgRCSv6NMEpFfkjXFsXFEeWEpJpo7sUQZe`
-- EVM: `0x406de5ec09201002c45fdd408ab23159cd12fa3e`
-- BTC: `bc1prze475lgalevngrhwq6r9wyng3rl3zskyru4rn4k6j8kwzmmczmqcd7u7y`
+- Channel Telegram : [Telegram](https://t.me/airdropbombnode)
+- Channel WhatsApp : [Youtube](https://youtube.com/@airdropbombnode)
 
 ## Disclaimer
 
